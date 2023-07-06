@@ -1,0 +1,99 @@
+id: ebe64aa66a214dd9937913eb1ba5d1c1
+annotation_type: Language
+revision: '00001'
+annotations:
+  73f50a861f4a4330b4c818315630e9ee:
+    span:
+      start: 0
+      end: 150
+    language: en
+  7cb4de1b47da4755ae6db5553063d0b4:
+    span:
+      start: 189
+      end: 639
+    language: en
+  719c556d4b5a4903ac8c4b74192bffd7:
+    span:
+      start: 34025
+      end: 34048
+    language: en
+  3f2a96acfefb496ba43f6227bfe914ba:
+    span:
+      start: 206203
+      end: 206231
+    language: en
+  1112b2bbcec9438eba9e099bbeca8a65:
+    span:
+      start: 270393
+      end: 270435
+    language: en
+  6010e6f0e17947e6a3be3f75d2f475b7:
+    span:
+      start: 329411
+      end: 329454
+    language: en
+  2c427248c3174816b4d377b15d47c643:
+    span:
+      start: 441377
+      end: 441416
+    language: en
+  fd2ba06e5be045c7a58a2b81ccd5cb10:
+    span:
+      start: 512133
+      end: 512154
+    language: en
+  c1f68a53e09b4566b59b63af410ba7a6:
+    span:
+      start: 837619
+      end: 837647
+    language: en
+  0f271db38bd44be08da91783dbb942f3:
+    span:
+      start: 907474
+      end: 907515
+    language: en
+  18776c9b05424993a12cdd2586804099:
+    span:
+      start: 948741
+      end: 948769
+    language: en
+  03ae3a75dbae470ba742e4af1cc3bae4:
+    span:
+      start: 997036
+      end: 997096
+    language: en
+  2c59a242d68745eaaf55a56961f59e64:
+    span:
+      start: 1124426
+      end: 1124460
+    language: en
+  753081a860954794b95585f2f3571fc2:
+    span:
+      start: 1127153
+      end: 1127246
+    language: en
+  24dbd04b773542e5addc045d2bfe3f97:
+    span:
+      start: 1248115
+      end: 1248281
+    language: en
+  96dffb3050da4c80a620b31323e4a20b:
+    span:
+      start: 1248309
+      end: 1250641
+    language: en
+  2ccac1907f3143678a113a8b323cae41:
+    span:
+      start: 1250680
+      end: 1250789
+    language: en
+  5e8b68e57556466e80e48bdc21df77a5:
+    span:
+      start: 1250886
+      end: 1250953
+    language: en
+  e646747282a84c36beabf0b3aa6bea47:
+    span:
+      start: 1250982
+      end: 1251521
+    language: en
